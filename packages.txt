@@ -7,3 +7,7 @@ libxrender-dev
 gcc
 python3-dev
 libc-dev
+libavcodec-dev
+libavformat-dev
+libswscale-dev
+build-essential
