@@ -1,7 +1,7 @@
-streamlit==1.37.1
-opencv-python-headless==4.10.0
+streamlit==1.39.0
+opencv-python-headless==4.8.1.78
 numpy==1.26.4
 pillow==10.4.0
 pandas==2.2.2
-streamlit-webrtc==0.47.7
-av==12.3.0
+streamlit-webrtc==0.47.4
+av==10.0.0
