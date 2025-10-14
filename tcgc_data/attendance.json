@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "student_id": "teste",
+    "student_name": "test",
+    "event_name": "test",
+    "date": "2025-10-14",
+    "time_in": "20:13:48",
+    "time_out": "20:23:25",
+    "timestamp": "2025-10-14T20:23:25.832965"
+  },
+  {
+    "id": 2,
+    "student_id": "teste",
+    "student_name": "test",
+    "event_name": "test2",
+    "date": "2025-10-14",
+    "time_in": "20:30:32",
+    "time_out": null,
+    "timestamp": "2025-10-14T20:30:32.671621"
+  }
+]

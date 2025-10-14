@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "event_name": "test",
+    "event_date": "2025-10-14",
+    "event_description": "",
+    "created_at": "2025-10-14T20:13:34.286019"
+  },
+  {
+    "id": 2,
+    "event_name": "test2",
+    "event_date": "2025-10-17",
+    "event_description": "test",
+    "created_at": "2025-10-14T20:30:22.815534"
+  }
+]
